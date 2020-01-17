@@ -1,2 +1,2 @@
 THIS IS FILE IN THE LOCAL MASTER
-2nd line added on the local branch
+2nd line added on the local b1
