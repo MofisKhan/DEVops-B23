@@ -6,6 +6,7 @@ class Simple
         int b = 20;
         int sum = a + b ;
         System.out.println("Hello world");
+        System.out.println("Welcome to world of java");
         System.out.println("Sum of "+a+"+"+b+"="+sum);
     }
 }
